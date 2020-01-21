@@ -1,4 +1,4 @@
-# everad-gulp-template
+# team-gulp-template
 
 > Для удобной совместной работы на проекте, рекомендуется всем участникам установить в свой редактор плагин [EditorConfig](https://editorconfig.org/#download).
 
