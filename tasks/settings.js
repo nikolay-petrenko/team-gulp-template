@@ -25,7 +25,7 @@ const paths = {
   },
   watch: {
     build: 'build',
-    templates: 'src/templates/**/*.pug',
+    templates: 'src/templates/**/*.+(pug|html)',
     styles: 'src/styles/**/*.+(sass|scss)',
     scripts: 'src/js/**/*.js',
     images: 'src/img/**/*.+(jpg|jpeg|png|svg|ico|gif)',
