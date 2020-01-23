@@ -18,7 +18,7 @@
 
 ### Создать компонент
 
-`gulp make --componentName`
+`gulp create --componentName`
 
 Таск автоматически создает:
 - `pug`-файл в `src/templates/components/`;
